@@ -8,17 +8,49 @@ useful to anybody else.
 
 ## Available modules
 
-- `audio`: Minimal code for playing sounds
-- `config`: Configuration handler with handling of different platforms
-- `debug`: Debugging tools
-- `lib`: Base loader lib
-- `net`: Network tools
-- `phpjs`: About to be removed. Collection of functions from phpjs, used in other modules
-- `rotate`: Rotation handling
-- `system`: Basic os detection and app handling
-- `tools`: Various misc. tools
-- `UI`: Interface tools
-- `window`: Manages multiple windows.
+### audio
+
+Minimal code for playing sounds
+
+### config
+
+Configuration handler with handling of different platforms
+
+### debug
+
+Debugging tools
+
+### lib
+
+Base loader lib
+
+###net
+
+Network tools
+
+###phpjs
+
+About to be removed. Collection of functions from phpjs, used in other modules
+
+###rotate
+
+Rotation handling
+
+###system
+
+Basic os detection and app handling
+
+###tools
+
+Various misc. tools
+
+###UI
+
+Interface tools
+
+###window
+
+Manages multiple windows.
 
 ## TODO
 
