@@ -58,3 +58,4 @@ Manages multiple windows.
 - Move property get/set functions from tools to new separate module
 - Manage dependencies between modules better
 - Remove cross-dependencies as much as possible
+- lib.load: Figure out include path automatically
