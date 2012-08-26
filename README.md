@@ -24,31 +24,35 @@ Debugging tools
 
 Base loader lib
 
-###net
+### net
 
 Network tools
 
-###phpjs
+### phpjs
 
 About to be removed. Collection of functions from phpjs, used in other modules
 
-###rotate
+### profile
+
+Simple time profiling tools.
+
+### rotate
 
 Rotation handling
 
-###system
+### system
 
 Basic os detection and app handling
 
-###tools
+### tools
 
 Various misc. tools
 
-###UI
+### UI
 
 Interface tools
 
-###window
+### window
 
 Manages multiple windows.
 
